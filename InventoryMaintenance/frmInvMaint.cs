@@ -75,5 +75,7 @@ namespace InventoryMaintenance
         {
             this.Close();
         }
+
+        
     }
 }

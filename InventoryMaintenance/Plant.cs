@@ -22,7 +22,7 @@ namespace InventoryMaintenance
         // Nady Fotie
         public override string GetDisplayText()
         {
-            return base.GetDisplayText() +  Size;
+            return base.GetDisplayText() + " " + Size;
         }
     }
 
